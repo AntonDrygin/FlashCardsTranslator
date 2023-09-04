@@ -15,6 +15,7 @@ This project is an automated translator for creating flashcards with translation
 ## Usage
 
 1. Replace the contents of the 'Vocabulary.txt' file with your word list or text to study. 
-2. Make sure the words you are interested in are one per line.
-3. Run a Python script to create flashcards and output the translations.
-4. View the results on the screen and/or locate the flashcards in the 'FlashCardsResalt' directory.
+2. Create the 'FlashCardsResalt' folder in the directory
+3. Make sure the words you are interested in are one per line.
+4. Run a Python script to create flashcards and output the translations.
+5. View the results on the screen and/or locate the flashcards in the 'FlashCardsResalt' directory.
