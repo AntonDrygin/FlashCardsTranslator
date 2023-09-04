@@ -1,0 +1,120 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="robots" content="index, follow" /><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" /><meta name="apple-mobile-web-app-capable" content="yes" /><link href="/images/kelynle-logo.ico" rel="shortcut icon" type="image/x-icon" /><title>
+	Unit 2: The Laboratory
+</title>
+    <script src="/apps-data/js/jquery-3.4.1.min.js"></script>
+    <script src="/apps-data/js/common.min.js"></script>
+    <script src="/apps-data/js/hammer.min.js"></script>
+    
+ 
+<link href="/apps-data/4000-essential-english-words-1/css/default.min.css?n=12032022" rel="stylesheet" />
+<script type="text/javascript" src="/apps-data/4000-essential-english-words-1/js/flashcard.min.js?n=12032022"></script>
+<script type="text/javascript" src="/apps-data/4000-essential-english-words-1/js/main.min.js?n=12032022"></script>
+<meta name="Description" content="4000 Essential English Words 1, Unit 2: The Laboratory" />
+<meta name="Keywords" content="4000 Essential English Words 1, Unit 2: The Laboratory" />
+<meta property="og:title" content="Unit 2: The Laboratory" />
+<meta property="og:url" content="https://www.essentialenglish.review/apps/4000-essential-english-words-1/unit-2-the-laboratory/" />
+<meta property="og:description" content="4000 Essential English Words 1, Unit 2: The Laboratory" />
+<meta property="og:type" content="Idioms Apps" />
+<meta property="og:image" content="www.essentialenglish.review/product/500x500_723441cc604b438091b349aeb1c4336a.png" />
+<meta property="og:site_name" content="www.essentialenglish.review" />
+</head>
+<body>
+    <div align="center">
+        
+    <div id="modal"><img src="/apps-data/4000-essential-english-words-1/images/flash-card/600.png" />
+<div><progress class="win-medium win-ring" id="extendedSplashProgress" style="position: fixed; top: 10px"></progress></div>
+</div>
+
+<div id="container">
+<div class="header" style="position: fixed; top: 0px; z-index: 5; height: 55px;">
+<div class="top" id="home-detail" style="height:100%;padding: 0px 10px 0px 10px; color: #3177A5; font-size: 28px;">
+<div id="settings" itemid="1" style="float: right; display:none"><img src="/apps-data/icons/Settings-50.png" style="width: 35px; padding: 3px; padding-top: 10px" /></div>
+
+<div style="float: left;"><a href="http://www.essentialenglish.review"><img src="/images/logo/logo-small.png" width="55" /></a></div>
+</div>
+
+<div class="top" id="section-detail" style="display: none">
+<div style="float: left"><img src="/apps-data/icons/circle_back_arrow-48.png" width="35" /></div>
+
+<div class="title"></div>
+</div>
+
+<div class="top" id="section-section" style="padding: 10px 10px 0px 10px; display: none">
+<div style="float: left"><img src="/apps-data/icons/circle_back_arrow-48.png" width="35" /></div>
+
+<div class="title"></div>
+</div>
+</div>
+
+<div style="clear: both;"></div>
+
+<div id="home-section">
+<div id="ads-top" style="background:white">
+<div style="max-width: 980px;  padding-top:10px"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" data-ad-client="ca-pub-5240132184193587" data-ad-format="fluid" data-ad-layout="in-article" data-ad-slot="7236008335" style="display:block; text-align:center;"></ins> <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+</div>
+
+<div id="last-session-segment" style="padding-bottom:20px"></div>
+</div>
+
+<div id="category-section">
+<section class="section" style="padding: 0px; border: 0px solid #D3D3D3; margin-bottom: 60px">
+<div class="container" style="padding: 0px"></div>
+
+<div id="ads-bottom"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Text & display ads - Responsive --><ins class="adsbygoogle" data-ad-client="ca-pub-5240132184193587" data-ad-format="auto" data-ad-slot="2298115039" data-full-width-responsive="true" style="display:block"></ins> <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</section>
+</div>
+
+<div id="right-banner" style="background:white;width: 300px;position:relative; top:50px; right:0px">
+<div><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Text & display ads - Responsive --><ins class="adsbygoogle" data-ad-client="ca-pub-5240132184193587" data-ad-format="auto" data-ad-slot="2298115039" data-full-width-responsive="true" style="display:block"></ins> <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</div>
+</div>
+
+<div id="bottom-section">
+<div class="container">
+<div class="app-name">4000 Essential English Words 1</div>
+
+<div class="app-slogan">Paul Nation</div>
+</div>
+</div>
+
+<div style="display: none">
+<audio id="sound"></audio>
+</div>
+
+<div class="font-size"><img src="/apps-data/4000-essential-english-words-1/icons/text-size.png" />
+<div class="font-size-cover"><button class="btn-font-size">A-</button><button class="btn-font-size" style="border-left:0px; border-right:0px">100%</button><button class="btn-font-size">A+</button></div>
+</div>    
+
+    </div>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111752849-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111752849-3');
+</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M3YTHE5580"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-M3YTHE5580');
+</script>
+  
+</body>
+</html>
