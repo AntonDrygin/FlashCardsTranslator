@@ -1,0 +1,10 @@
+kill=убийство
+noise=шум
+adventure=приключение
+smell=запах
+nervous=нервный
+terrible=ужасный
+worse=худший
+create=создавать
+secret=секрет
+experiment=эксперимент

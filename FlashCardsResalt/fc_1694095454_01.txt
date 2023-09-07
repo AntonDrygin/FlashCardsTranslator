@@ -1,0 +1,10 @@
+shout=кричать
+carefully=осторожно
+scare=напугать
+approach=подход
+laugh=смех
+loud=громкий
+evil=зло
+chemical=химический
+project=проект
+laboratory=лаборатория
